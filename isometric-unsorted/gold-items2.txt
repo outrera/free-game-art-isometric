@@ -1,0 +1,11 @@
+Authors: Bonsaiheldin (http://bonsaiheld.org)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/gold-treasure-icons-16x16
+
+This work is inspired by http://opengameart.org/content/gold-treasure-icons. I made these gold treasure icons because i simply needed them in 16x16 pixels.
+
+This work is released to the Public Domain / CC0 license.
+
+However, if you want to give credit, you can write something like:
+
+Bonsaiheldin | http://bonsaiheld.org

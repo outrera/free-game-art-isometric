@@ -1,0 +1,8 @@
+author: Harri Jokinen 'SirRandom'
+license: CC-BY 3.0
+origin: http://opengameart.org/content/random-scenery-tiles
+
+Bunch of artwork I did for a game concept back in 2014, which never got any further.
+
+Copyright/Attribution Notice: 
+Free to use as long as you credit me for additional art.

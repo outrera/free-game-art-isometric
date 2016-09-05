@@ -1,0 +1,7 @@
+Author: Cody Smedley 'CodyS' (equaltocody@gmail.com)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/broom-racing-course-with-broom-racer
+
+Everything you need to make an isometric broom racing course! Tiles are 32x32 and broom rider adjusts  to different angles for dramatic effect!
+
+I loved making this, and if you love using it, support me on patreon and leave a nice comment. 

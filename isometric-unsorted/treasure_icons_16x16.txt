@@ -1,0 +1,16 @@
+Authors: Bonsaiheldin (http://bonsaiheld.org)
+License: CC-BY-SA
+Origin: http://opengameart.org/content/shiny-treasure-icons-16x16
+
+Looking at my first 16x16 treasure icons i started to feel the need for some more "modern style" ones, especially in terms of colors.
+
+The result: 13 different icons in copper, silver and gold. I myself am using the first three rows in a game project with a "1, 2, 5, 10, 20, 50, ..." value system, ending at 500000 represented by the gold ingot.
+
+I hope you like these as much as i do and find a use for them! :)
+
+---
+
+If you would like to give something back, a donation using the Flattr button on the left would be very much appreciated. <3
+
+Copyright/Attribution Notice: 
+Bonsaiheldin | http://bonsaiheld.org or a link to this page
