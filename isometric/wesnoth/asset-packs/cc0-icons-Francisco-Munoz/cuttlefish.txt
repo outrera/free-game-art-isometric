@@ -1,0 +1,5 @@
+author: Francisco Munoz 'fmunoz.geo'
+License: Public Domain (CC0)
+origin: http://opengameart.org/content/cuttle-fish-portrait
+
+Battle For Wesnoth portrait of a cuttle fish I did a long time ago, no longer in use.
