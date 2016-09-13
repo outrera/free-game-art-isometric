@@ -1,0 +1,10 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: http://opengameart.org/content/pirates-defense-cannon
+
+Building a battle game? Like pirates? Get this super high quality cannon sprite. Comes with multiple perspectives and firing animation.
+
+Let me know if you have any questions or requests!
+
+Copyright/Attribution Notice: 
+Credit "CityBuildingKit.com" or "www.CityBuildingKit.com", this is not mandatory.

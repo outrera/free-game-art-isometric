@@ -1,0 +1,18 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: http://opengameart.org/content/policeman-character-walk-shoot-idle-animations
+
+Enemy policeman sprite character for your game. Separate png sprites for three different animations.
+
+Includes:
+    Separate 142x162 PNG sprites
+    360 degree animation (8 different angles)
+    Walk loop
+    Shooting loop
+    Idle loop
+    Shadow
+
+Let me know if you have any questions or requests!
+
+Copyright/Attribution Notice: 
+Credit "CityBuildingKit.com" or "www.CityBuildingKit.com", this is not mandatory.
