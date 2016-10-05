@@ -1,0 +1,18 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: http://opengameart.org/content/pirate-wood-walls-isometric-game-defense-structure
+
+Defend your pirate town from raids with these wooden walls. Includes sneaky little pirate eye animated sprites for the entrance gates. Arr - no one be raiding your village once you've added these to your game.
+
+Includes:
+
+    Up to 2048x2950 sized PNG images
+    .Blend Blender 3D source included
+    Very high quality art!
+    Individual wall segments
+    Connect to build your own walls
+
+Let me know if you have any questions or requests!
+
+Copyright/Attribution Notice: 
+Credit "CityBuildingKit.com" or "www.CityBuildingKit.com", this is not mandatory.

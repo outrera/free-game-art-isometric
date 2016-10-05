@@ -1,0 +1,16 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: http://opengameart.org/content/gold-mine-for-city-building-games
+
+Pirates love gold. Right? Arr, we do. Animated gold mind that keeps digging and keeps pouring. Endless gold for everyone. Great for your pirate city builder. Checkout our other pirate themed items in our porfolio.
+
+Includes:
+    2048x2115 PNG
+    .Blend Blender 3D source included
+    Very high quality art
+    Smaller sprite animation for gold retrieval
+
+Let me know if you have any questions or requests!
+
+Copyright/Attribution Notice: 
+Credit "CityBuildingKit.com" or "www.CityBuildingKit.com", this is not mandatory.

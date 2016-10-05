@@ -1,0 +1,19 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: http://opengameart.org/content/pirate-ships-3-types-with-multiple-angle-renders
+
+Float your own ocean armada with three pirate ships that fire arrows, cannonballs, and ridiculously huge cannonballs. (Arr -- balls not included)
+
+Includes:
+
+    Up to 2014x1232 in size
+    3 PNG ships (archer, cannon, and mega-cannon)
+    8 isometric angles for 360 unit movement
+    .Blend Blender 3D source included
+    Very high quality art!
+    Separate sprites for water trail, flag, and attack objects (arrow shooter, cannon launcher)
+
+Let me know if you have any questions or requests!
+
+Copyright/Attribution Notice: 
+Credit "CityBuildingKit.com" or "www.CityBuildingKit.com", this is not mandatory.
