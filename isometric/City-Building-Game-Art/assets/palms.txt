@@ -1,0 +1,19 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: http://opengameart.org/content/oasis-palm-trees
+
+Build your own beautiful desert or island oasis with these palm trees.
+
+Includes:
+
+    Large 2033x2939 PNG sprites
+    .Blend Blender 3D source included
+    Animated wind blowing through trees
+    Three different palm trees included
+    Very high quality art!
+
+Let me know if you have any questions or requests!
+
+
+Copyright/Attribution Notice: 
+Credit "CityBuildingKit.com" or "www.CityBuildingKit.com", this is not mandatory.
