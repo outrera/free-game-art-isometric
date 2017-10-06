@@ -1,0 +1,12 @@
+author: librorumque64 (http://pixeljoint.com/p/129647.htm)
+licenses: CC-BY 4.0
+origin: https://opengameart.org/content/isometric-heavy-armor
+
+A tiny set of modular armors, made with TRPG/TBS in mind. Has 3 layers: body, head and optional weapon. Depending on circumstances, head might become optional as well.
+
+No animation for now.
+
+Ground tiles from preview included in a separate file just in case.
+
+Copyright/Attribution Notice: 
+By librorumque64 at opengameart.org / lrq64 at pixeljoint.com
