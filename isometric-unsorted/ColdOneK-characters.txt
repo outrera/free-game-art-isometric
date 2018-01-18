@@ -1,0 +1,18 @@
+Author: Justin Dalessandro 'ColdOneK' (https://opengameart.org/users/coldonek)
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/2d-isometric-characters-0
+
+2 isometric squire characters.
+
+Was planning on making a FF tactics inspired game w/ construct 2. Couldn't even get grid movement to work. D:
+
+ 
+
+Please enjoy.
+
+ 
+
+If used, please give credit to: Justin Dalessandro(ColdOneK)
+
+Notifying me of it's use in a project(s) is not required - but I'd think it was pretty cool =p
+
