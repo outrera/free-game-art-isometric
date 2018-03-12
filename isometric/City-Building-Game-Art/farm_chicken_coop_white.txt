@@ -1,0 +1,13 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: https://opengameart.org/content/farming-game-chicken-coop
+
+Raise your own hens with this chicken coop. Designed for a farming game, includes chickens and multiple layers for all the objects you see in the image. Huge size too.
+
+Includes:
+
+    Large 2600x2160 PNG image
+    .psd Photoshop source included
+    Multi-layer source file for easier editing
+
+Let me know if you have any questions or requests!

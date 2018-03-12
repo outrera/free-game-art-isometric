@@ -1,0 +1,14 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: https://opengameart.org/content/corn-farm-isometric-tile
+
+For your farming game, raise corn crops with this game piece.
+
+Includes:
+
+    Large 1916x2174 PNG image
+    .psd Photoshop source included
+    Multi-layer source file for easier editing
+    Delicious, wholesome corn :)
+
+Let me know if you have any questions or requests!

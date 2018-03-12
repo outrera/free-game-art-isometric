@@ -1,0 +1,13 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: https://opengameart.org/content/farming-game-set-red-barn-with-psd
+
+Add a red and white barn to your farm game. Multi-layer psd file included for further editing. Now go build your farm.
+
+Includes:
+
+    Large 2218x2457 PNG image
+    .psd Photoshop source included
+    Multi-layer source file for easier editing
+
+Let me know if you have any questions or requests!

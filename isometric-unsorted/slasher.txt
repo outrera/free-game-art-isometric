@@ -1,0 +1,13 @@
+Author: br-n518
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/slasher
+
+A horned monster with sharp blades for claws.
+
+Animations are as sprite frames (individual imags) and include the following animations:
+
+    Idle
+    Run
+    Attack
+
+Some insensible camera angles are omitted for the platform sprites.
