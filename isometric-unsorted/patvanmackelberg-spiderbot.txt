@@ -1,0 +1,9 @@
+Author: Patrick 'patvanmackelberg'
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/spiderbot-missing-legs
+
+This spiderbot was for a quick thing I never finished.
+
+Includes
+    Spiderbot in 1 direction
+    The same spiderbot missing each leg

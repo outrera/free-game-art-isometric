@@ -1,0 +1,13 @@
+Author: Patrick 'patvanmackelberg'
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/space-guy-8-directional-animated-character-16x16
+
+Made this for a prototype, I no longer need it.
+
+This includes;
+
+    8 directional walking animation.
+    8 directional single frame "shooting" image
+
+Copyright/Attribution Notice: 
+Use it or lose it, just like your parts ;)

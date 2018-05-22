@@ -1,0 +1,16 @@
+Author: Patrick 'patvanmackelberg'
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/skeleton-and-friends-8-directional
+
+This is an old couple of characters I had hiding in my personal stash that I may or may not ever use. Use it in your game for free!
+
+Includes
+
+    Skeleton walking
+    Skeleton walking with weapon
+    Weapon overlay - without the skeleton
+    Shade Skeleton (black ghosty looking one)
+    Flaming Skull monster
+    Misc Stuff
+    Player Attack + Sword + Separate sword overlay
+    Gate Keeper Boss + Animated staff thing

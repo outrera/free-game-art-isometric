@@ -1,0 +1,5 @@
+Author: Onno Timmerman 'Enquest'
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/bird-blue-flying
+
+A bird flying. A bird sitting and turning around.  If you use it in a game please let me know :)

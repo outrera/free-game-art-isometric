@@ -1,0 +1,18 @@
+author: Squareaddict (https://www.fiverr.com/squareaddict)
+License: GPL2
+origin: https://opengameart.org/content/woodcutter-cutting-wood
+
+This is something Squareaddict created using Battle for Wesnoth images as base.
+
+I guess licensing is the same as Battle for Wesnoth.
+
+https://www.fiverr.com/squareaddict
+
+I ordered this on Fiverr.com
+
+This was made for WarMage:
+
+https://lizardwizard.itch.io/warmage
+
+Copyright/Attribution Notice: 
+GNU GPL v2

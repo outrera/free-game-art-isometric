@@ -1,0 +1,10 @@
+Author: Patrick 'patvanmackelberg'
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/killbot-8-directional
+
+This is from a project I started then stopped. Just a robot built to kill.
+
+Includes
+
+    8 Way movement
+    8 Way gun aiming

@@ -1,5 +1,5 @@
-author: Nikita Sadkov
+author: Yar (http://opengameart.org/users/yar), Nikita Sadkov, `Seth Galbraith`
 license: CC-BY-SA
 origin: https://github.com/saniv/free-game-art
 
-Various additions and edits to Yar's tileset.
+Various additions and edits to Yar's tileset. Some tiles are edits of sprites by Seth Galbraith. So credit him accordingly.

@@ -1,0 +1,8 @@
+Author: Kristjan Jonasson 'Triki Minut' (http://www.trikiminut.com/)
+License: CC-BY 3.0, CC-BY-SA 3.0
+Origin: https://opengameart.org/content/spaceship-3d-model3-blend
+
+Model of a spaceship that has been used in the prototype of the 2.5D isometric space game: Space Pioneer (www.trikiminut.com) No texture has been applied to this model and has not been seam marked; It has been left a blank slate for whoever wishes to use, and/or modify the model. This was used only to render isometric angled images. The camera has been left in an iso angle if anyone wishes to use them for the same purpose. I hope someone can get use of this model since it will be no longer needed after prototyping. .blend file in a .7z
+
+Copyright/Attribution Notice: 
+K.L.Jonasson, Winnipeg, Canada. Triki Minut Interactive www.trikiminut.com

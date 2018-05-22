@@ -1,0 +1,7 @@
+Author: Igor Suntsev 'Seth Robinson' (http://dragosha.com/)
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/isometric-dungeon-tileset
+
+Small asset contains:
+
+NPC dummies, Tiles and UI elements
