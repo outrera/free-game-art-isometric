@@ -1,0 +1,7 @@
+author: Dmitry Abramov 'Zen'
+license: Public Domain (CC0)
+origin: https://pixabay.com/en/minotaur-cyclops-labyrinth-entrance-2897115/
+
+CC0 Creative Commons
+Free for commercial use
+No attribution required

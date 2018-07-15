@@ -1,0 +1,28 @@
+author: VladimirSlavik
+license: GPL2
+source: https://opengameart.org/content/medieval-city-set
+
+A set of medieval buildings that allow progression of a settlement in size and complexity, from village to city. Suitable probably for 4x (civ-like) and similar games.
+
+Technical description
+
+Each "level" is available as a complete sprite at 128x128, with the lower half being a hex of the ground/map/whatever. The sprite is a layer in Gimp (xcf) source: it must be manually selected to be visible and backgrounds / helper guides / etc. enabled or disabled as seen fit.
+
+There are 3 variants for the whole world, but only the houses are completed.
+
+A separate "parts" file contains all the items, which means you can easily put together your own variants as needed. Each part is also annotated as to its origin in an overlay.
+
+The file hex-test.svg shows the planned layout at higher level which shaped the actual graphics - rivers at tile edges, paths through the hex (so as to tile well).
+
+Background
+
+This is a result of toying with an idea for a game. The idea was too complex, hazy and required insane amount of manually created pixel art to be a starting point. Some of the graphics were created, though, which is what you have here.
+
+The original idea was to have a hex split into 4 parts, and assign forest, farms, mines or housing to that part. The parts would be predetermined through a simple algorithm, ensuring that the number of variants does not explode through the roof. It would be possible to put housing into all 4 quarters on level3, or cram into just two at level 6. This explains the and multiple layout alternatives that you can see in the sources.
+
+The building/housing layers use numbering which describes the population levels on the subhex-quarters: 6+5+3 means that the first slot is (maxed out) at level 6, second at lv5 and third at 3.
+
+I attempted to somewhat match central eutropean romanesque architecture. There are no city wall, although intended. The top of the hex was meant to allow special buildings like castles or monasteries, one per tile/city. None came into existence, either.
+
+Licensing
+Buildings are derivatives of Freeciv amplio2 pieces (european style cities), with a lot of own additions. Farms and mines (very poor) are own work. Forests are remixed from trees taken from Wesnoth forests.
