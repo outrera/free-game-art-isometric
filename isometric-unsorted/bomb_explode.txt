@@ -1,0 +1,5 @@
+Author: Andrew 'AndHeGames' (scrapsandpatches.com)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/exploding-plant-bomb
+
+An exploding bomb/seed/plant/thing. Click image to see animation.

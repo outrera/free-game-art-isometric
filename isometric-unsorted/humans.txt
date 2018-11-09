@@ -1,0 +1,5 @@
+author: sanmon (https://sanmon.itch.io/)
+license: free
+origin: https://sanmon.itch.io/isometric-human-sprites
+
+It contains six pieces of pixel art of an isometric style. Walking animation. Hair types are blonde, brown hair, black hair. Size is 32 x 48 per sprite. PNG.
