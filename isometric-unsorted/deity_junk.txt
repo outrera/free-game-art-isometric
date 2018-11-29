@@ -1,5 +1,6 @@
-author: surt (Carl Olsson)
-origin: http://opengameart.org/forumtopic/cc0-scraps
+Author: Carl Olsson 'surt'
+License: Public Domain (CC0)
+Origin: http://opengameart.org/forumtopic/cc0-scraps
 
 
 Miscellaneous crude or ancient scraps which are incomplete, rough concepts, abandoned and/or of poor quality and as such don't warrant submission as is.
