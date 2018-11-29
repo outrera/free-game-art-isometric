@@ -1,0 +1,31 @@
+author: Kenney
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/medieval-town-base-3d-assets
+
+This pack includes walls, roofs, floors and roads to create a medieval town. All pieces are modular and allow you to create thousands of different structures.
+
+3D Preview (Sketchfab)
+
+Features:
+
+    Works in Unity, Unreal and all other 3D engines
+    Optimized, low poly models
+    Modular in design
+    No textures (just materials)
+    Easy to model additional elements
+    Unity package included
+    Properly named
+
+Files:
+
+    Separate OBJ + MTL files (67x)
+    Unity package (1x)
+
+Let me know if you have any questions or requests!
+
+---
+
+Like to support the creation of free game assets? Consider a donation:
+
+Copyright/Attribution Notice: 
+Credit "Kenney.nl" or "www.kenney.nl", this is not mandatory.

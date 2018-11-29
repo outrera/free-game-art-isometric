@@ -1,0 +1,30 @@
+author: Kenney
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/pirate-kit
+
+This package includes 30 pirate themed objects including ships, characters, treasure, trees, rocks and more!
+
+Features:
+
+    Works with Unity, Unreal and all other 3D engines
+    30+ objects!
+    Optimized, low poly models
+    Unity package included
+
+Files:
+
+    Separate OBJ models
+    Separate FBX files
+    Separate gLTF 2.0 files
+    Unity package
+    Isometric renders (4 angles)
+    Topdown renders
+
+Let me know if you have any questions or requests!
+
+---
+
+Like to support the creation of free game assets? Consider a donation:
+
+Copyright/Attribution Notice: 
+Credit "Kenney.nl" or "www.kenney.nl", this is not mandatory.

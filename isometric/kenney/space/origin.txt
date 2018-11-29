@@ -1,0 +1,29 @@
+author: Kenney
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/space-kit
+
+Includes 3D models to build spaceports and other galactic structures, also includes isometric and top-down renders of each tile. Includes buildings, rocks, ores, spaceships, characters, weapons and more.
+
+Features:
+
+    Works in Unity, Unreal and all other 3D engines
+    Over 75 objects/tiles!
+    Optimized, low poly models
+    Unity package included
+    Also includes isometric (4 or 8 angles) and topdown renders
+
+Files:
+
+    Separate OBJ and FBX models/textures (PNG)
+    Unity package
+    Isometric renders (4 or 8 angles)
+    Topdown renders
+
+Let me know if you have any questions or requests!
+
+---
+
+Like to support the creation of free game assets? Consider a donation:
+
+Copyright/Attribution Notice: 
+Credit "Kenney.nl" or "www.kenney.nl", this is not mandatory.

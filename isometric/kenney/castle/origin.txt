@@ -1,0 +1,29 @@
+author: Kenney
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/castle-kit
+
+This kit includes models (and isometric/top-down sprites) for building castles. Included are castle walls, towers, gates, siege weaponry, characters, flags and more.
+
+Features:
+
+    Works in Unity, Unreal and all other 3D engines
+    60 objects!
+    Optimized, low poly models
+    Unity package included
+    Also includes isometric (4 angles) and topdown renders
+
+Files:
+
+    Separate OBJ models and textures (PNG)
+    Unity package
+    Isometric renders (4 angles)
+    Topdown renders
+
+Let me know if you have any questions or requests!
+
+---
+
+Like to support the creation of free game assets? Consider a donation:
+
+Copyright/Attribution Notice: 
+Credit "Kenney.nl" or "www.kenney.nl", this is not mandatory.

@@ -1,0 +1,27 @@
+author: Kenney
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/isometric-dungeon-tiles-60
+
+This isometric tileset has a completely new art style unlike my previous assets (relax; will only stick to these isometric themed tiles).This package includes isometric tiles for dungeon related levels. Included are walls, floors, furniture, crates, barrels, stairs and more. You can purchase a bundle including many more isometric tiles like there here.
+
+Files:
+
+    Separate PNG files (500x)
+    Tiled template
+    Bonus: Top-down view rendering of each tile!
+
+Technical:
+
+    Rendered at 35.264° × 40° viewpoint
+    Image (tile) size is 256 × 512 pixels
+    Tile width is 256 pixels, height varies
+    PNG images with alpha channel
+
+Let me know if you have any questions or requests!
+
+---
+
+Like to support the creation of free game assets? Consider a donation:
+
+Copyright/Attribution Notice: 
+Credit "Kenney.nl" or "www.kenney.nl", this is not mandatory.

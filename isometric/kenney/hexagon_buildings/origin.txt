@@ -1,0 +1,20 @@
+author: Kenney
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/hexagon-tiles-buildings
+
+84 new tiles that go together with the Hexagon tileset for creating castles, buildings, farms and anything you can imagine! 
+
+Includes:
+
+    Seperate PNG sprites (84x)
+    Spritesheet
+    Vector files (SWF and SVG)
+
+Let me know if you have any questions or requests!
+
+---
+
+Like to support the creation of free game assets? Consider a donation:
+
+Attribution Instructions: 
+Credit "Kenney.nl" or "www.kenney.nl", this is not mandatory.

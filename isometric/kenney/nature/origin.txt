@@ -1,0 +1,30 @@
+author: Kenney
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/nature-kit
+
+This package includes over 320 nature themed objects including trees, rocks, stones, terrain elements, waterfalls, camping equipment, and plants.
+
+Features:
+
+    Works in Unity, Unreal and all other 3D engines
+    320+ objects!
+    Optimized, low poly models
+    Unity package included
+
+Files:
+
+    Separate OBJ models
+    Separate FBX files
+    Separate gLTF 2.0 files
+    Unity package
+    Isometric renders (4 angles)
+    Topdown renders
+
+Let me know if you have any questions or requests!
+
+---
+
+Like to support the creation of free game assets? Consider a donation:
+
+Copyright/Attribution Notice: 
+Credit "Kenney.nl" or "www.kenney.nl", this is not mandatory.

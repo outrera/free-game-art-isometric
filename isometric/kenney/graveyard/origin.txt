@@ -1,0 +1,28 @@
+author: Kenney
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/graveyard-kit
+
+This package includes over 50 different graveyard and Halloween themed models, including graves, coffins, fences, benches, characters and more.
+
+Features:
+
+    Works with Unity, Unreal and all other 3D engines (instructions)
+    50+ objects!
+    Optimized, low poly models
+
+Files:
+
+    Separate FBX, OBJ, DAE, GTLF and STL models
+    Isometric renders (4 angles)
+    Sideview renders
+    Import instructions for the most popular game engines
+
+Let me know if you have any questions or requests!
+
+---
+
+Like to support the creation of free game assets? Consider a donation:
+
+
+Copyright/Attribution Notice: 
+Credit "Kenney.nl" or "www.kenney.nl", this is not mandatory.

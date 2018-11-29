@@ -1,0 +1,23 @@
+author: Kenney
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/platformer-kit
+
+This pack includes platformer themed models including landscape tiles, items, blocks, hazards and more.
+
+Features:
+
+    Works with Unity, Unreal and all other 3D engines (instructions)
+    70+ objects!
+    Optimized, low poly models
+
+Files:
+
+    Separate FBX, OBJ, DAE, GTLF and STL models
+    Isometric renders (4 angles)
+    Sideview renders
+    Import instructions for the most popular game engines
+
+Let me know if you have any questions or requests!
+
+Copyright/Attribution Notice: 
+Credit "Kenney.nl" or "www.kenney.nl", this is not mandatory.
