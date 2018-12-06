@@ -1,0 +1,24 @@
+Author: chasersgaming (http://www.chasersgaming.co.uk/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/rpg-character-pirate-nes
+
+Animation sprite sheet for a pirate
+
+includes:
+
+*Idle *Walk *Run *Climb *Push *Pull *Attack *Hit *Aquire *Block 
+
+*Title Screen image and *Portrait image.
+
+*Hearts *Sword Weapon and *Weapon GUI.
+
+Created with a NES Colour palette which i have included on the sprite sheet should you wish to change colours and keep within the palette.
+
+Enjoy!
+
+Pirate ship tile set available here:
+
+https://opengameart.org/content/rpg-pirate-ship-tile-set
+
+Copyright/Attribution Notice: 
+Free to use as you want, no credit needed but always appreciated. Support by Fav, Share or Patreon. thanks.:) 
