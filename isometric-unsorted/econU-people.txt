@@ -1,0 +1,5 @@
+Author: zac zidik 'FLAG' (http://www.flagamengine.com/)
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/isometric-people
+
+Here is a collection of isometric people used for game built with the FLAG Game Engine.

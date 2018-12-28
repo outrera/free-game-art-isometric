@@ -1,0 +1,5 @@
+Author: zac zidik 'FLAG' (http://www.flagamengine.com/)
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/econ-u-tiles
+
+This is a tile set used in a game built with the FLAG Game Engine. The game is called Economics University, or Econ U.

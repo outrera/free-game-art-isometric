@@ -1,0 +1,5 @@
+Author: Angry Amish, Nikita Sadkov
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/snake-on-an-old-stump
+
+Edited a public domain snake sprite by Angry Amish
