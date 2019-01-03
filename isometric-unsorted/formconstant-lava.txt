@@ -1,0 +1,5 @@
+author: formconstant
+License: CC-BY-SA 4.0
+Origin: https://opengameart.org/content/64x128-isometric-tiles-lava
+
+Just 29 lava&rock tiles and one crystal. Might need some minor adjustments.

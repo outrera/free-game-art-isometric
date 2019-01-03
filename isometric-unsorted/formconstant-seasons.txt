@@ -1,0 +1,12 @@
+author: formconstant
+License: CC-BY-SA 4.0
+Origin: https://opengameart.org/content/64x128-isometric-tiles-grassland-seasons
+
+96 tiles, 24 tiles for a season.
+
+    4 basic ground tiles
+    4 ground decal tiles
+    12 road tiles
+    4 decorative tiles
+
+8 trees, 2 for season.

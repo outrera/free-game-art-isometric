@@ -1,0 +1,27 @@
+Author: Hansjorg Malthaner 'Varkalandar' (https://opengameart.org/users/varkalandar) Jordan Irwin 'AntumDeluge'
+License: CC-BY 3.0, OGA-BY 3.0
+Origin: https://opengameart.org/content/square-crystals-rework
+
+Description:
+
+    Square crystals tileset created as a drop-in replacement for Stendhal. Reworked from Varklandar's Isometric Crystal Spades: https://opengameart.org/node/54984
+
+Details:
+
+    Orientation: orthogonal or isometric
+    Dimensions: Designed for 32x32 tiled maps.
+    PNG images with 256 or less colors optimized with indexed color.
+    PNG images with more than 256 color & GIMP sources (.xcf) use RGB color.
+
+Licensing:
+
+    OpenGameArt.org Attribution (OGA BY) version 3.0
+    Creative Commons Attribution (CC BY) version 3.0
+
+Notes:
+
+    IMPORTANT: As part of Varkalandar's attribution requirements, please link back to the OGA profile page: https://opengameart.org/users/varkalandar
+
+Original link: https://opengameart.org/node/84406
+Copyright/Attribution Notice: 
+Created by Hansjörg Malthaner (Varkalandar) & Jordan Irwin (AntumDeluge); https://opengameart.org/users/varkalandar

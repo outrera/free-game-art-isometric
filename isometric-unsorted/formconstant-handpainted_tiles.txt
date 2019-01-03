@@ -1,0 +1,24 @@
+author: formconstant
+License: CC-BY-SA 4.0
+Origin: https://opengameart.org/content/64x128-isometric-hand-painted-tiles
+
+Small set of unrelated hand painted tiles. It was pipeline test, maybe somebody can produce something nice with them or just use them as a placeholder.
+
+Includes one tile of:
+
+    rocks with moss
+    plain rocks
+    sand with dark rocks
+    cracked soil
+    grass with stone path
+    different grass
+    uh, algae swampy texture
+    the same texture but with patches of mud
+    ground with small plants and stones
+    ground with some roots and plants
+    dark wooden floor
+    light wooden floor
+    ice
+    lava
+    blue metal plate
+    guts?
