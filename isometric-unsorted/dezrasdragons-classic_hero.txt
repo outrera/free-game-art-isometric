@@ -1,0 +1,28 @@
+Author: DezrasDragons (http://javagamexyz.blogspot.com/)
+License: Public Domain (cc0)
+Origin: https://opengameart.org/content/isometric-classic-hero-tiles-32x32
+
+I took several of the GrafxKid classic hero edits and transformed them to an isometric projection (dimetric) on a 32x32 grid.
+
+Eight animated characters with idle, walk, attack, and hit animation frames (though several animations could probably use a few additional frames and tweaks). Up and down facing directions are included.
+
+    Classic Hero (special thanks to GrafxKid!!!)
+       https://opengameart.org/content/classic-hero
+    Ninja
+       https://opengameart.org/content/ninja-animated
+    Knight (special thanks to Disthron)
+       https://opengameart.org/content/classic-knight-animated
+    Viking Shieldmaiden (includes version with and without weapon)
+       https://opengameart.org/content/viking-shieldmaiden-animated
+    Ye Oldy Musket Guy (includes version with and without weapon) (special thanks to Disthron)
+       https://opengameart.org/content/ye-oldy-musket-guy-animated
+    Pirate Captain
+       https://opengameart.org/content/classic-pirate-captain-animated
+    Samurai
+       https://opengameart.org/content/samurai-animated
+    Roman Hoplite (new character) (includes version with and without weapon)
+
+I am also including a tileset made using the DB32 palette, that includes grass, desert, stone, water, and wood tiles, as well as a few props (birds are adapted from Refuzzle: https://opengameart.org/content/winter-birds ). The tiles also include shadows that can be layered to mimic decent ambient occlusion.
+
+Copyright/Attribution Notice: 
+***OPTIONAL*** It would be nice to receive credit if you use these, as well as let me know about your project!
